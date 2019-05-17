@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.Properties;
 
 /**
- * Author jiezhan
+ * 
  */
 public final class KafkaProducer {
     private static final Logger log = LoggerFactory.getLogger(KafkaProducer.class);
